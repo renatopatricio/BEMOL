@@ -1,9 +1,0 @@
-Recado aos avaliadores do desafio
-
-1. Não recebi as bases de dados e solicitei via email, porém, não recebi novamente.
-2. Após avaliação, tomei a liberdade de mudar o escopo do desafio com tecnologias importantissimas na área de dados:
-AWS, Linux, Docker, DBT, Airflow, Snowflake e Postgresql. 
-3. A minha intensão é mostrar algumas habilidades e conhecimentos além do que foi solicitado. 
-4. Espero que seja suficiente para a aprovação no processo seletivo.
-
-Boa sorte a todos. 
